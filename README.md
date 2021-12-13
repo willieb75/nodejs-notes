@@ -1,8 +1,13 @@
 # nodejs-notes
 
 ## Ubuntu Install nodejs
-`sudo apt install nodejs`
+    sudo apt install nodejs
+<br>
 
-`node -v`
+    node -v
 
-`sudo apt install npm`
+> Output
+> 
+> v10.19.0
+
+    sudo apt install npm
